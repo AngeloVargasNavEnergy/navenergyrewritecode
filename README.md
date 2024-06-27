@@ -5,7 +5,7 @@
 
 ## Overview
 
-Welcome to the [Company Name] Code Rewrite Project repository. Our goal is to modernize and optimize our legacy codebase by rewriting it with modern technologies and best practices. This project aims to improve the performance, maintainability, and scalability of our applications.
+Welcome to the NTEC Code Rewrite Project repository. Our goal is to modernize and optimize our legacy codebase by rewriting it with modern technologies and best practices. This project aims to improve the performance, maintainability, and scalability of our applications.
 
 ## Project Goals
 
